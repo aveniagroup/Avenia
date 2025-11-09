@@ -1,0 +1,16 @@
+project_id = "fncquwglxnmvbrrcaihz"
+
+[functions.ai-ticket-assistant]
+verify_jwt = true
+
+[functions.autonomous-ticket-agent]
+verify_jwt = true
+
+[functions.detect-sensitive-data]
+verify_jwt = true
+
+[functions.validate-ip]
+verify_jwt = true
+
+[functions.mysql-auth]
+verify_jwt = false
